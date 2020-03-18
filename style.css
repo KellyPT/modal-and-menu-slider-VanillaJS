@@ -15,6 +15,7 @@ body {
   margin: 0;
 }
 
+/* Styling for left nav bar */
 nav {
   background-color: var(--primary-color);
   border-right: 2px solid rgba(200, 200, 2000, 0.1);
