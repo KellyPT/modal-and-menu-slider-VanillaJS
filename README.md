@@ -1,4 +1,4 @@
-# Menu Slider and Modal with CSS and VanillaJS
+# Menu Slider & Modal with CSS & VanillaJS
 
 ## Objective
 Implement a menu slider (with "hamburger button") and pop-up modal with CSS and VanillaJS
