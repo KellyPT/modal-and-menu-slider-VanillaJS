@@ -11,3 +11,7 @@ Implement a menu slider (with "hamburger button") and pop-up modal with CSS and 
 
 ## Credit
 Special thanks to [Brad Traversy](https://github.com/bradtraversy) for your amazing Udemy tutorials.
+
+#### Note
+Install prettier on your local dev environment with
+`npm install --save-dev --save-exact prettier`
